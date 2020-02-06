@@ -1,0 +1,14 @@
+
+Charanpreet Kaur cs610 8357 prp
+
+”HANDOUT 2 ADHERED; NO BUGS TO REPORT”
+
+Compilation instructions: 
+
+javac hits_8357.java
+javac pagerank_8357.java
+
+Running Instructions:
+
+java hits_8357 iteration initialvalue filename
+java pagerank_8357 iterations initialvalue filename
